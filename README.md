@@ -1,3 +1,11 @@
+## Languages
+
+- English (this README)
+- Türkçe (coming soon)
+- ไทย (coming soon)
+- 简体中文 (敬请期待)
+- Русский (coming soon)
+- Español (coming soon)
 
 # TRON-Vanity-Address-Generator
 
@@ -11,6 +19,14 @@ A lightweight, **open-source** TRON vanity address generator. **Secure**, **offl
 - **CPU-only**: Portable across Linux, macOS, and Windows as a single static binary.
 - **Multi-threaded**: Uses all available CPU cores for faster generation.
 - **Secure randomness**: Uses cryptographically secure random number generation.
+
+## Download
+
+You can download the latest prebuilt binaries from the GitHub Releases page:
+
+- [Latest release](https://github.com/bigbigha/TRON-Vanity-Address-Generator/releases/latest)
+- [TRON Vanity Address Generator v0.1.0](https://github.com/bigbigha/TRON-Vanity-Address-Generator/releases/tag/v0.1.0)
+
 
 ## Installation
 
