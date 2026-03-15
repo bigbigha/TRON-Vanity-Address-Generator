@@ -5,6 +5,9 @@
 
 set -e
 
+command -v go >/dev/null 2>&1 || { echo "go not found. Please install Go and ensure it is in PATH."; exit 1; }
+command -v git >/dev/null 2>&1 || { echo "git not found. Please install git."; exit 1; }
+
 echo "TRON Vanity Address Generator - Build Script"
 echo "============================================"
 echo ""
