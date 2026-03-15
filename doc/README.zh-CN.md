@@ -36,7 +36,7 @@
 
 如果你不熟悉命令行，可以使用仓库中的辅助脚本：
 
-- [Windows / macOS / Linux 辅助脚本说明](scripts/README.zh-CN.md)
+- [Windows / macOS / Linux 辅助脚本说明](../scripts/README.zh-CN.md)
 
 
 ### Windows 示例
