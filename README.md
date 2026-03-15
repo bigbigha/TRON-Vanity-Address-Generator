@@ -1,6 +1,6 @@
 ## Languages
 
-- English (this README)
+- English (this README ./)
 - Türkçe (coming soon)
 - ไทย (coming soon)
 - [简体中文](doc/README.zh-CN.md)
