@@ -1,7 +1,7 @@
 ## Languages
 
-- English (this README ./)
-- Türkçe (coming soon)
+- [English](README.md)
+- [Türkçe](doc/README.tr.md)
 - ไทย (coming soon)
 - [简体中文](doc/README.zh-CN.md)
 - Русский (coming soon)
