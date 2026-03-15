@@ -6,7 +6,7 @@ Basit, hızlı ve geliştirici dostu.
 
 ## Diller
 
-- English (main README)
+- English (main [README](../README.md))
 - Türkçe (bu belge)
 
 ## Özellikler
@@ -38,7 +38,7 @@ Releases sayfasında, işletim sisteminize uygun dosyayı indirin:
 
 Eğer doğrudan komut satırı kullanmak istemiyorsanız, depo içindeki yardımcı betikleri kullanabilirsiniz.
 
-Ayrıntılı açıklama: `scripts/README.tr.md`
+Ayrıntılı açıklama: [`scripts/README.tr.md`](../scripts/README.tr.md)
 
 ### Windows Yardımcı Betiği (kısa özet)
 
