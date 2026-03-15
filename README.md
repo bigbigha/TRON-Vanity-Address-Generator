@@ -28,6 +28,12 @@ You can download the latest prebuilt binaries from the GitHub Releases page:
 - [TRON Vanity Address Generator v0.1.0](https://github.com/bigbigha/TRON-Vanity-Address-Generator/releases/tag/v0.1.0)
 
 
+## Helper Scripts (For Non-Developers)
+
+If you prefer not to use the command line directly, you can use the helper scripts:
+
+- [Windows and macOS/Linux helper scripts](scripts/README.md)
+
 ## Installation
 
 ### For Developers
