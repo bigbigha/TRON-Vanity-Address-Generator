@@ -42,7 +42,7 @@ Releases sayfasında, işletim sisteminize uygun dosyayı indirin:
 
 Eğer doğrudan komut satırı kullanmak istemiyorsanız, depo içindeki yardımcı betikleri kullanabilirsiniz.
 
-Ayrıntılı açıklama: `scripts/README.tr.md`
+Ayrıntılı açıklama: [`scripts/README.tr.md`](../scripts/README.tr.md)
 
 ### Windows Yardımcı Betiği (kısa özet)
 
