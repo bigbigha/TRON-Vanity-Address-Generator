@@ -3,7 +3,7 @@
 - English (this README)
 - Türkçe (coming soon)
 - ไทย (coming soon)
-- 简体中文 (敬请期待)
+- [简体中文](README.zh-CN.md)
 - Русский (coming soon)
 - Español (coming soon)
 
