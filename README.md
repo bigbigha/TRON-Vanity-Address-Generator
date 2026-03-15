@@ -2,10 +2,10 @@
 
 - [English](README.md)
 - [Türkçe](doc/README.tr.md)
-- ไทย (coming soon)
+- [ไทย](doc/README.th.md)
 - [简体中文](doc/README.zh-CN.md)
-- Русский (coming soon)
-- Español (coming soon)
+- [Русский](doc/README.ru.md)
+- [Español](doc/README.es.md)
 
 # TRON-Vanity-Address-Generator
 
