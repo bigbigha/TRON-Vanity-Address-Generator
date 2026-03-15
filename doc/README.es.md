@@ -9,7 +9,7 @@ Sencillo, rápido y amigable para desarrolladores y usuarios finales.
 - [English](../README.md))
 - [Русский](README.ru.md)
 - [简体中文](README.zh-CN.md)
-- [Türkçe](docs/README.tr.md)
+- [Türkçe](README.tr.md)
 - [ไทย](README.th.md)
 - [Español](README.es.md)
 
