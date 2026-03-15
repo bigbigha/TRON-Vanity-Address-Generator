@@ -1,7 +1,7 @@
 package vanity
 
 import (
-	"tron-vanity-go/internal/tron"
+	"github.com/bigbigha/TRON-Vanity-Address-Generator/internal/tron"
 )
 
 // WorkerLoop 工作协程的主循环

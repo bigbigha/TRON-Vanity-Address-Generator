@@ -1,6 +1,6 @@
-module tron-vanity-go
-
-go 1.21
+//module tron-vanity-go
+module github.com/bigbigha/TRON-Vanity-Address-Generator
+go 1.20
 
 require (
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.2.0

@@ -3,11 +3,11 @@ package main
 import (
 	"flag"
 	"fmt"
+	"github.com/bigbigha/TRON-Vanity-Address-Generator/internal/vanity"
 	"os"
 	"runtime"
 	"sync"
 	"time"
-	"tron-vanity-go/internal/vanity"
 )
 
 func main() {
@@ -32,7 +32,7 @@ func main() {
 
 	// 创建匹配器
 	matcher := vanity.NewMatcher(*prefix, *suffix)
-	
+
 	// 创建通道
 	results := make(chan vanity.Result)
 	stop := make(chan struct{})
@@ -41,9 +41,9 @@ func main() {
 	var wg sync.WaitGroup
 	fmt.Printf("Starting %d workers...\n", *workers)
 	fmt.Printf("Searching for addresses with prefix '%s' and suffix '%s'...\n", *prefix, *suffix)
-	
+
 	startTime := time.Now()
-	
+
 	for i := 0; i < *workers; i++ {
 		wg.Add(1)
 		go func() {
@@ -65,7 +65,7 @@ func main() {
 		fmt.Printf("\n=== Found Match #%d ===\n", found)
 		fmt.Printf("Address: %s\n", r.AddressBase58)
 		fmt.Printf("Private Key: %s\n", r.PrivateHex)
-		
+
 		if found >= *count {
 			fmt.Printf("\nFound %d matches. Stopping...\n", found)
 			close(stop)
